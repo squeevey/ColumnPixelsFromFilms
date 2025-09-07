@@ -11,15 +11,17 @@ ffmpeg -noautorotate -y -i /Volumes/testfiles/The\ Matrix\ \(1999\)\ \[1080p\]/T
 First we get 65499 frames (JPEG spec says you cannont have an image over 65500). We crop each frame to be 1 pixel wide, and whatever the height of the video. We then take the pixel column and tile them one after the next. 
 We end up with an image that is composed of the pixels of the last column of each frame. 
 
-I chose two movies to illustrate what is happening. 
-Koyaanisqatsi for its visuals
-https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-Koyaanisqatsi-1.jpg
+I chose two movies to illustrate what is happening.
 
-https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-Koyaanisqatsi-2.jpg
+Koyaanisqatsi for its visuals
+
+[Koyaanisqatsi Pt1](https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-Koyaanisqatsi-1.jpg)
+
+[Koyaanisqatsi Pt2](https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-Koyaanisqatsi-2.jpg)
 
 The Matrix for its unique cinematic identity. 
-https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-TheMatrix_tri_1.jpg
+[Matrix 1 1of3](https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-TheMatrix_tri_1.jpg)
 
-https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-TheMatrix_tri_2.jpg
+[Matrix 1 2 of 3](https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-TheMatrix_tri_2.jpg)
 
-https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-TheMatrix_tri_3.jpg
+[Matrix 1 3 of 3](https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-TheMatrix_tri_3.jpg)
