@@ -14,9 +14,12 @@ We end up with an image that is composed of the pixels of the last column of eac
 I chose two movies to illustrate what is happening. 
 Koyaanisqatsi for its visuals
 https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-Koyaanisqatsi-1.jpg
+
 https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-Koyaanisqatsi-2.jpg
 
 The Matrix for its unique cinematic identity. 
 https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-TheMatrix_tri_1.jpg
+
 https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-TheMatrix_tri_2.jpg
+
 https://raw.githubusercontent.com/squeevey/ColumnPixelsFromFilms/refs/heads/main/lastcolumnframe-TheMatrix_tri_3.jpg
